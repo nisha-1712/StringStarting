@@ -7,5 +7,8 @@ public class S {
 
         String b="vasundhara";
         System.out.println(b);
+        a.concat("Kumar");
+        System.out.println(a);
+
     }
 }
